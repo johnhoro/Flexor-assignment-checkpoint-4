@@ -775,6 +775,9 @@ header {
   font-size: 1.3rem;
   font-weight: 600;
 }
+.attach a {
+  color: var(--primery);
+}
 /* team section */
 .team-section {
   background-color: var(--tertiary);
@@ -1138,6 +1141,9 @@ header {
 }
 .blog-home a {
   color: var(--secondary);
+}
+.blog-color a {
+  color: var(--primery);
 }
 .blog-bar h2 {
   font-size: 2.3rem;
